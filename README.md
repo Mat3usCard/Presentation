@@ -11,7 +11,7 @@ atualmente sou um estudante de Analise e densolvimento de sistemas (ADS) da cruz
 
 # 🚀 Projetos em Destaque
 
-*  [FlowSound ](https://www.figma.com/proto/QXc7HzTe4fL78acpv3SM1j/FlowSound?node-id=641-423&p=f&t=VFqNqk9qk4A39GRp-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=641%3A423) - Desenvolver um aplicativo funcional e disfuncional
+*  [FlowSound ](https://www.figma.com/design/QXc7HzTe4fL78acpv3SM1j/FlowSound?node-id=0-1&t=SmjamvCstcvlOTIP-1) - Desenvolver um aplicativo funcional e disfuncional
 
 # 📫 Como me encontrar
 
